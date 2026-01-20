@@ -1,9 +1,8 @@
 0.1 - 
-* Reglas generales
-* Prompt engineering
-* Domina tu pc
+* Reglas Generales
+* Prompt Engineering
+* Domina tu PC
 0.2
-* Pensamiento computacional
+* Pensamiento Computacional
 * Github parte 1
-* Instalaciones
-alan
+* Instalacion de Herramientas
